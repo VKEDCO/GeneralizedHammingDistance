@@ -4,6 +4,16 @@ GHD.cpp: implementation of the CGHD class.
 File: GHD.cpp
 Description: Generalized Hamming Distance Methods
 Author: Vladimir Kulyukin
+
+Copyright (c) 2000-2002
+All rights reserved.
+
+The software is provided "AS IS" without any express or implied
+warranties. Any use of this software for education and/or research
+is hereby granted, provided that the above copyright information 
+is explicitly stated in all versions of the source code. Any 
+use of this software for commercial purposes requires written 
+permission of the copyright holder.
 ======================================================
 */
 
